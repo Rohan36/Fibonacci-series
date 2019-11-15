@@ -1,6 +1,6 @@
 # Fibonacci-series
 how to create a fibonacci series
- #include<stdio.h>
+#include<stdio.h>
 main()
 {
     int a=0;b=1,c,n;
